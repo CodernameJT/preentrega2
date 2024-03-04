@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # preentrega3
 
 Para 3 entrega (definiciones del profesor):
