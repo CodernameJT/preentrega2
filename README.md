@@ -11,4 +11,4 @@ Para 3 entrega (definiciones del profesor):
 Todas las instancias del punto anterior se cumplen.
  
 Esta es la entrega para un ejercicio solicitado para el curso de Web Flex.
->>>>>>> 8dc373b (prueba para subir el archivos de Readme)
+
